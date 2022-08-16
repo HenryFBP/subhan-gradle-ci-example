@@ -1,6 +1,6 @@
 # Subhan Gradle CI Example
 
-![potato](https://github.com/henryfbp/subhan-gradle-ci-example/actions/workflows/potato.yml/badge.svg)
+![potato](https://github.com/henryfbp/subhan-gradle-ci-example/actions/workflows/potato.yaml/badge.svg)
 
 
 ## Setup
