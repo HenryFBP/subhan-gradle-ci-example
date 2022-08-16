@@ -10,3 +10,14 @@ gradle init
     1 Groovy DSL
     1 JUnit 4
 ```
+
+## Running tests
+
+note: add --info or --debug for more console spam 
+
+    gradle clean test build
+
+## How did we get da tests
+
+https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-gradle
+
